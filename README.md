@@ -1,6 +1,6 @@
 # Classification-of-the-intention-of-tweets
 ## Info
-Nella cartella sono presenti:
+Nella repository sono presenti:
   - La relazione del progetto 
   - La cartella R, in cui sono contenuti:
 	1. i 4 file fornitit per l'esecuzione del progetto 
